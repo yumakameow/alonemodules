@@ -1,3 +1,5 @@
 PyVersion
 Searcher
 TextToVoice
+Valute
+SearchModules

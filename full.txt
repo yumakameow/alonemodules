@@ -3,4 +3,3 @@ Searcher
 TextToVoice
 Valute
 SearchModules
-Helper

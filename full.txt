@@ -1,6 +1,5 @@
-PyVersion
 Searcher
 TextToVoice
 Valute
-SearchModules
 AutoGame
+Wikipedia

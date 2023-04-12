@@ -3,3 +3,4 @@ TextToVoice
 Valute
 AutoGame
 Wikipedia
+InlineNotes
